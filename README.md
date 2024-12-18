@@ -17,7 +17,7 @@ Model Smoking Behavior: Build predictive models to classify individuals based on
 Support Public Health Strategies: Provide insights to guide targeted interventions aimed at reducing tobacco addiction.
 Methodology
 
-***The project follows a structured data science pipeline:***
+**The project follows a structured data science pipeline:**
 
 Data Cleaning and Preprocessing:
 Handle missing values, outliers, and irrelevant features.
@@ -53,4 +53,5 @@ Targeted campaigns focusing on at-risk groups can be more effective in reducing 
 Behavioral interventions, such as promoting healthier lifestyles and mental health support, can complement anti-smoking efforts.
 
 **Conclusion**
+
 This project demonstrates the power of data-driven approaches in understanding and addressing tobacco addiction. By analyzing behavioral risk factors and leveraging machine learning models, we provide valuable insights to policymakers and healthcare professionals. These findings can help design targeted interventions to reduce smoking rates and improve public health outcomes.
