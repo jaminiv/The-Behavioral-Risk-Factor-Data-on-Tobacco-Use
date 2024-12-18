@@ -1,17 +1,21 @@
 # <h1 style="font-size: 80px;">Tobacco Addiction Analysis: Behavioral Risk Factor Data</h1> 
 
-**Introduction**
+**Introduction**/n
 This project explores the Behavioral Risk Factor Surveillance System (BRFSS) dataset to analyze patterns and factors associated with tobacco addiction. Tobacco use remains one of the leading preventable causes of death worldwide, contributing to serious health issues such as lung cancer, cardiovascular diseases, and respiratory disorders. By examining the behavioral, demographic, and health-related factors that influence tobacco addiction, this project aims to provide actionable insights to inform public health policies and interventions.
 
-**Objectives**
+**Objectives**/n
 The primary goals of this project are:
 
 Analyze Behavioral Trends: Understand the behavioral and demographic characteristics of smokers versus non-smokers.
+
 Identify Risk Factors: Pinpoint key predictors of tobacco addiction using statistical and machine learning techniques.
+
 Model Smoking Behavior: Build predictive models to classify individuals based on their likelihood of tobacco use.
+
 Support Public Health Strategies: Provide insights to guide targeted interventions aimed at reducing tobacco addiction.
 Methodology
-The project follows a structured data science pipeline:
+
+***The project follows a structured data science pipeline:***
 
 Data Cleaning and Preprocessing:
 Handle missing values, outliers, and irrelevant features.
